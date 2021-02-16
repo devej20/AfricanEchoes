@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Afrikan Echoese.</string>
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">1697759343732214</string>
+    <!-- Replace "000000000000" with your Facebook App ID here.    -->
+    <string name="fb_login_protocol_scheme">fb1697759343732214</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+      
+</resources>

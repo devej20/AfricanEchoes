@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637052359150",
+    "firebase_url": "https://afrikan-ekoes.firebaseio.com",
+    "project_id": "afrikan-ekoes",
+    "storage_bucket": "afrikan-ekoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637052359150:android:8a5d82bc5513403ae9feff",
+        "android_client_info": {
+          "package_name": "net.sipconsult.african_echoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637052359150-p7nvkgnnq3f2pgub48mp4ef24rl5156j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzS8n87FgbEqqAhlwaD31E0zVG--B1rbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637052359150-p7nvkgnnq3f2pgub48mp4ef24rl5156j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
